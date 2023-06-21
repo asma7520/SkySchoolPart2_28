@@ -71,6 +71,7 @@ public class Customer_Order_List_Functionalities extends Base {
 		 Thread.sleep(2000);
 		click(By.xpath("//button[text()='Order Product']"));
 		System.out.println("Click on product button");
+		System.out.println("Test project");
 		
 	}
 	
